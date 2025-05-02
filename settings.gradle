@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-parking-app'
+
+include 'client-processor'
+include 'payments-processor'
+include 'common'
